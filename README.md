@@ -1,13 +1,13 @@
 # 📌 Sistema de Controle de Chamados de TI
 
 ## 👥 Grupo
-- Beatriz Moscareli – 925110885  
-- Bruno Rodrigues – 3024102442  
-- Cayky Victor Hermann – 3025102055  
-- Henrique de Souza – 3022202322  
-- João Vitor Martins dos Santos – 3023104100  
-- Marcos Munir Moreira Melo da Silva – 3025101665  
-- Rodrigo Alves dos Santos – 3023104930  
+- Beatriz Moscareli 
+- Bruno Rodrigues 
+- Cayky Victor Hermann 
+- Henrique de Souza
+- João Vitor Martins dos Santos
+- Marcos Munir Moreira Melo da Silva
+- Rodrigo Alves dos Santos
 
 ## 📅 Versão
 **2.0 – 25/02/2026**
